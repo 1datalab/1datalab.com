@@ -1,34 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="604px" height="269px" viewBox="0 0 604 269" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="749px" height="284px" viewBox="0 0 749 284" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
-    <title>1datalab_combined_logo</title>
+    <title>1datalab_logo_simple</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="1datalab_combined_logo" transform="translate(322.000000, 147.500000) rotate(360.000000) translate(-322.000000, -147.500000) translate(-4.000000, 4.000000)">
-            <text id="ONE-DATA-LAB" font-family="VarelaRound-Regular, Varela Round" font-size="80" font-weight="normal" fill="#000000">
-                <tspan x="-2.98427949e-13" y="264">ONE DATA LAB</tspan>
+        <g id="1datalab_logo_simple" transform="translate(-5.000000, 4.000000)">
+            <path d="M220.784091,16.3821429 L220.784091,160.346429" id="Line-Copy-4" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(220.500000, 88.364286) rotate(360.000000) translate(-220.500000, -88.364286) "></path>
+            <text id="ONE-DATA-LAB" transform="translate(383.000000, 238.285714) rotate(360.000000) translate(-383.000000, -238.285714) " font-family="VarelaRound-Regular, Varela Round" font-size="99.2857143" font-weight="normal" fill="#000000">
+                <tspan x="-5.40723022e-12" y="278.65">ONE DATA LAB</tspan>
+                <tspan x="758.542857" y="278.65" font-family="PCapTerminal, PCap Terminal" font-size="109.214286"></tspan>
             </text>
-            <text id="CLOUD" font-family="VarelaRound-Regular, Varela Round" font-size="36" font-weight="normal" fill="#000000">
-                <tspan x="225" y="61">CLOUD</tspan>
-                <tspan x="225" y="104">MACHINE LEARNING</tspan>
-                <tspan x="225" y="147">DATA SCIENCE</tspan>
+            <text id="CLOUD-" transform="translate(508.000000, 90.971429) rotate(360.000000) translate(-508.000000, -90.971429) " font-family="VarelaRound-Regular, Varela Round" font-size="47.6571429" font-weight="normal" fill="#4A4A4A">
+                <tspan x="253" y="47.9714286">CLOUD </tspan>
+                <tspan x="253" y="105.971429">MACHINE LEARNING </tspan>
+                <tspan x="253" y="163.971429">DATA SCIENCE</tspan>
             </text>
-            <path d="M169.215909,84.2613636 L169.215909,114.261364" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round"></path>
-            <path d="M103.215909,112.261364 L103.215909,159.698864" id="Line-Copy-4" stroke="#000000" stroke-width="7" stroke-linecap="round"></path>
-            <path d="M101.656448,21.7840909 L33.1761364,66.0852273" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round"></path>
-            <path d="M58.6564476,100.784091 L33.4677235,117.079126" id="Line-Copy-3" stroke="#000000" stroke-width="7" stroke-linecap="round"></path>
-            <path d="M102.960227,163.3125 L33.1761364,117.051136" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round"></path>
-            <path d="M168.823864,66.0852273 L102.568182,21" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round"></path>
-            <path d="M168.823864,116.267045 L102.960227,163.3125" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round"></path>
-            <path d="M102.960227,113.3125 L33.1761364,67.0511364" id="Line-Copy-2" stroke="#000000" stroke-width="7" stroke-linecap="round"></path>
-            <path d="M168.823864,66.2670455 L102.960227,113.3125" id="Line-Copy" stroke="#000000" stroke-width="7" stroke-linecap="round"></path>
-            <path d="M15,58.5 L15,120.5" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel"></path>
-            <path d="M189,59 L189,119.5" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round"></path>
-            <path d="M102.837209,1 L15.5,57.5" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round"></path>
-            <path d="M104.5,181.5 L15.5,122.5" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round"></path>
-            <path d="M188.5,57.5 L104,2.08615347e-11" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round"></path>
-            <path d="M188.5,121.5 L104.5,181.5" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round"></path>
+            <path d="M10,58.0821429 L10,119.639286" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="translate(10.000000, 88.860714) rotate(360.000000) translate(-10.000000, -88.860714) "></path>
+            <path d="M184,58.5785714 L184,118.646429" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(184.000000, 88.860714) rotate(360.000000) translate(-184.000000, -88.860714) "></path>
+            <path d="M97.8372085,0.992857143 L10.5,57.0892857" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(54.000000, 29.289286) rotate(360.000000) translate(-54.000000, -29.289286) "></path>
+            <path d="M99.5,180.203571 L10.5,121.625" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(55.000000, 150.914286) rotate(360.000000) translate(-55.000000, -150.914286) "></path>
+            <path d="M183.5,57.0892857 L99,1.56278799e-11" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(141.000000, 28.792857) rotate(360.000000) translate(-141.000000, -28.792857) "></path>
+            <path d="M183.5,120.632143 L99.5,180.203571" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(141.500000, 150.417857) rotate(360.000000) translate(-141.500000, -150.417857) "></path>
+            <path d="M164.215909,81.6737825 L164.215909,111.459497" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(164.215909, 96.566640) rotate(360.000000) translate(-164.215909, -96.566640) "></path>
+            <path d="M98.2159091,109.473782 L98.2159091,156.572443" id="Line-Copy-4" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(98.215909, 133.217735) rotate(360.000000) translate(-98.215909, -133.217735) "></path>
+            <path d="M96.6564476,19.642776 L28.1761364,63.6274756" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(62.284091, 41.829748) rotate(360.000000) translate(-62.284091, -41.829748) "></path>
+            <path d="M53.6564476,98.0784903 L28.4677235,114.257133" id="Line-Copy-3" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(41.062086, 106.167811) rotate(360.000000) translate(-41.062086, -106.167811) "></path>
+            <path d="M97.9602273,160.160268 L28.1761364,114.229343" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(63.068182, 137.194805) rotate(360.000000) translate(-63.068182, -137.194805) "></path>
+            <path d="M163.823864,63.6274756 L97.5681818,18.8642857" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(130.500000, 41.440503) rotate(360.000000) translate(-130.500000, -41.440503) "></path>
+            <path d="M163.823864,113.450852 L97.9602273,160.160268" id="Line" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(130.892045, 136.805560) rotate(360.000000) translate(-130.892045, -136.805560) "></path>
+            <path d="M97.9602273,110.517411 L28.1761364,64.5864854" id="Line-Copy-2" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(63.068182, 87.551948) rotate(360.000000) translate(-63.068182, -87.551948) "></path>
+            <path d="M163.823864,63.8079951 L97.9602273,110.517411" id="Line-Copy" stroke="#000000" stroke-width="7" stroke-linecap="round" transform="translate(130.892045, 87.162703) rotate(360.000000) translate(-130.892045, -87.162703) "></path>
         </g>
     </g>
 </svg>
