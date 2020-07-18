@@ -6,7 +6,7 @@ body, html {
 .intro-header {
 	padding-top: 100px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
 	padding-bottom: 20px;
-	color: #000000;
+	color: #C1BFC0;
 	/*background: url(../img/background_5.png) no-repeat center center;*/
 	background-size: cover;
 	text-align: center; 
