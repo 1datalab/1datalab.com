@@ -1,14 +1,17 @@
 body, html {
 	height: 100%;
 	width: 100%;
+	background-image: url('../img/background_7.jpg');
+	background-size: cover;
+  	background-repeat: no-repeat;
+  	background-position: 80% 80%;
 }
 
-.intro-header {
+.intro {
 	padding-top: 100px; 
 	padding-bottom: 20px;
+	font-family: 'VarelaRound-Regular';
 	color: #000000;
-	background-size: cover;
 	text-align: center; 
-	
 }
 
